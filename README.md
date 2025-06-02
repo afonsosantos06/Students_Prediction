@@ -6,7 +6,7 @@
 O objetivo deste trabalho é desenvolver um sistema de machine learning capaz de **prever se um estudante será aprovado ou reprovado no exame final**. A antecipação destes resultados permite identificar alunos em risco e possibilita intervenções pedagógicas direcionadas.
 
 ## Dados
-- **Fonte:** UCI Student Performance Dataset
+- **Fonte:** UCI Student Performance Dataset  https://archive.ics.uci.edu/dataset/320/student+performance
 - **Ficheiro:** `student-data.csv`
 - **Registos:** 395 estudantes
 - **Atributos:** 31 variáveis (demográficas, socioeconómicas, comportamentais e de desempenho)
