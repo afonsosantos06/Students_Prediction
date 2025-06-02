@@ -66,4 +66,3 @@ pip install pandas==2.2.3 numpy==2.1.3 scikit-learn==1.6.1 matplotlib==3.10.0 se
 ## Observações Finais
 - O foco do trabalho foi maximizar a identificação de alunos em risco de reprovação, privilegiando métricas de Recall e F1 para a classe minoritária.
 - Recomenda-se a execução do notebook em ambiente que suporte as versões indicadas das bibliotecas. # Students-Prevision
-# Students-Prevision
